@@ -1,0 +1,14 @@
+# APM package metadata for reproducible installation and audit.
+# The standard skills/<name>/SKILL.md layout is auto-detected by APM.
+name: show-me
+version: 1.3.1
+description: >-
+  Help the user understand the current topic visually with concise diagrams, code-shape sketches, API-surface diffs, and
+  focused HTML artifacts. Use when: explaining a topic visually, showing control flow, sketching component or file
+  structure, comparing states, or creating a focused visual artifact. Triggers: show me, visualize this, draw the flow,
+  diagram this, show the structure, API diff.
+
+# APM producer metadata. `apm pack --force` generates .claude-plugin/plugin.json.
+author:
+  name: pretty-good-software-org
+target: claude
