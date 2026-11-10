@@ -20,6 +20,7 @@ enable = [
   "MD026",
   "MD027",
   "MD028",
+  "MD029",
   "MD030",
   "MD035",
   "MD038",
@@ -42,6 +43,7 @@ enable = [
   "MD056",
   "MD058",
   "MD059",
+  "MD060",
   "MD071",
   "MD076",
 ]
@@ -74,7 +76,6 @@ list-items = true
 style = "ordered"
 
 [MD060]
-enabled = false
 style = "aligned"
 max-width = 120
 
